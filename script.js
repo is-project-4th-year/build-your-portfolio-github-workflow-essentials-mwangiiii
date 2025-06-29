@@ -13,6 +13,45 @@ document.addEventListener('DOMContentLoaded', () => {
       'Algorithm Design', 'Video Editing (Adobe Premiere Pro, CapCut)'
     ]
   };
+  
+  let projects = JSON.parse(localStorage.getItem('portfolioProjects')) || [
+    {
+      title: 'Task Management System',
+      description: 'A system to allocate tasks, subtasks, and real-time alerts using Windows cronjobs.',
+      image: '',
+      link: ''
+    },
+    {
+      title: 'News Aggregator',
+      description: 'Fetches news from APIs (CNN, BBC, Al Jazeera) using Flask.',
+      image: '',
+      link: ''
+    },
+    {
+      title: 'Smart Attendance System',
+      description: 'Facial recognition-based attendance system with Laravel backend and LMS integration.',
+      image: '',
+      link: ''
+    },
+    {
+      title: 'Rental Management System',
+      description: 'Platform for house advertising and landlord management with financial analysis.',
+      image: '',
+      link: ''
+    },
+    {
+      title: 'AI Code Editor',
+      description: 'An editor suggesting code and ideas during development.',
+      image: '',
+      link: ''
+    },
+    {
+      title: 'Civilizations Video Project',
+      description: 'Video explaining Egypt and Mesopotamia civilizations for Multimedia Systems unit.',
+      image: '',
+      link: ''
+    }
+  ];
 
   // Render user name
   document.getElementById('user-name').textContent = userData.name;
@@ -25,4 +64,23 @@ document.addEventListener('DOMContentLoaded', () => {
   // Render skills
   const skillsGrid = document.getElementById('skills-grid');
   skillsGrid.innerHTML = userData.skills.map(skill => `<div class="skill-card">${skill}</div>`).join('');
+
+  // Render projects
+  const projectsGrid = document.getElementById('projects-grid');
+  function renderProjects() {
+    projectsGrid.innerHTML = '';
+    projects.forEach(project => {
+      const card = document.createElement('div');
+      card.className = 'project-card';
+      card.innerHTML = `
+        ${project.image ? `<img src="${project.image}" alt="${project.title}">` : ''}
+        <h3>${project.title}</h3>
+        <p>${project.description}</p>
+        ${project.link ? `<a href="${project.link}" target="_blank" rel="noopener noreferrer">View Project</a>` : ''}
+      `;
+      projectsGrid.appendChild(card);
+    });
+  }
+
+  renderProjects();
 });
