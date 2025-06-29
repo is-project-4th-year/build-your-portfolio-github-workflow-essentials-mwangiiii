@@ -11,14 +11,8 @@ document.addEventListener('DOMContentLoaded', () => {
       'Laravel', 'Next.js', 'React Native', 'Vue.js', 'Docker',
       'AI/ML', 'UI/UX Design', 'Database Management', 'IoT',
       'Algorithm Design', 'Video Editing (Adobe Premiere Pro, CapCut)'
-    ],
-    skills: [
-      'Laravel', 'Next.js', 'React Native', 'Vue.js', 'Docker',
-      'AI/ML', 'UI/UX Design', 'Database Management', 'IoT',
-      'Algorithm Design', 'Video Editing (Adobe Premiere Pro, CapCut)'
     ]
   };
-  
   let projects = JSON.parse(localStorage.getItem('portfolioProjects')) || [
     {
       title: 'Task Management System',
@@ -57,6 +51,7 @@ document.addEventListener('DOMContentLoaded', () => {
       link: ''
     }
   ];
+  const customSections = JSON.parse(localStorage.getItem('customSections')) || [];
 
   // Render user name
   document.getElementById('user-name').textContent = userData.name;
@@ -86,6 +81,20 @@ document.addEventListener('DOMContentLoaded', () => {
       projectsGrid.appendChild(card);
     });
   }
+
+  // Render custom sections
+  const customSectionsContainer = document.getElementById('custom-sections');
+  customSections.forEach(section => {
+    const sectionElement = document.createElement('section');
+    sectionElement.className = 'section';
+    sectionElement.innerHTML = `
+      <div class="container">
+        <h2>${section.title}</h2>
+        <div>${section.content}</div>
+      </div>
+    `;
+    customSectionsContainer.appendChild(sectionElement);
+  });
 
   renderProjects();
 });
