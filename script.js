@@ -11,6 +11,11 @@ document.addEventListener('DOMContentLoaded', () => {
       'Laravel', 'Next.js', 'React Native', 'Vue.js', 'Docker',
       'AI/ML', 'UI/UX Design', 'Database Management', 'IoT',
       'Algorithm Design', 'Video Editing (Adobe Premiere Pro, CapCut)'
+    ],
+    skills: [
+      'Laravel', 'Next.js', 'React Native', 'Vue.js', 'Docker',
+      'AI/ML', 'UI/UX Design', 'Database Management', 'IoT',
+      'Algorithm Design', 'Video Editing (Adobe Premiere Pro, CapCut)'
     ]
   };
   
