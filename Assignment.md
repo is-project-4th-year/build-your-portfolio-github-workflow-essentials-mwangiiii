@@ -68,7 +68,7 @@ Include screenshots that demonstrate how you used GitHub to manage your project.
 
 - Screenshot of your GitHub Project Board with issues organized into columns (e.g., To Do, In Progress, Done).
 
-![Project Board Overview](images/project-board.png)
+![Project Board Overview](images/projects.png)
 
 ---
 
