@@ -2,39 +2,47 @@
 
 ## 1. Student Details
 
-- **Full Name**:
-- **Admission Number**:
-- **GitHub Username**:
-- **Email**:
+- **Full Name**: Wanjiku Dennis Mwangi
+- **Admission Number**: 151354
+- **GitHub Username**: mwangiiii
+- **Email**: dennis.wanjiku@strathmore.edu
 
 ## 2. Deployed Portfolio Link
 
 - **GitHub Pages URL**:  
-  _(Provide the live link to your deployed portfolio website)_
+ [ _(Link to portfolio)_](https://is-project-4th-year.github.io/build-your-portfolio-github-workflow-essentials-mwangiiii/)
 
 ## 3. Learnings from the Git Crash Program
 
-Write about **4 things** you expected to learn during the Git crash course (yes, we all came in with some big hopes 😅).
-For each one, mention:
+--- 
 
-What you thought it would be like **(Expectation 👀)**
+**1. Concept: Git Is Just Online Backup**
+-    Expectation 👀: I thought Git was basically a fancier Google Drive for code just push it up and you're done.
+-    Reality 😅: Git actually tracks every version of your code and helps you experiment safely without messing up your main work.
+-    Impact 💡: I used branches for each section of my portfolio (like Projects and Skills) and kept everything clean and organized.
 
-What you actually learned **(Reality 😅)**
+---
 
-And how it helped with your personal portfolio project 💻
+**2. Concept: Merging Is Always Smooth**
+-    Expectation 👀: I assumed merging was quick and automatic—no extra work needed.
+-    Reality 😅: I ran into merge conflicts and had to learn how to fix them by choosing what code to keep.
+-    Impact 💡: Now I commit often and review changes before merging. It kept my portfolio stable and bug-free.
 
-make it honest—and if it surprised you, even better!
+---
 
-Example format:
+**3. Concept: GitHub Issues & Boards Are Only for Teams**
+-    Expectation 👀: I figured those tools were for big teams with complex workflows.
+-    Reality 😅: Turns out they’re great for solo projects too! Breaking tasks into issues made the project more manageable.
+-    Impact 💡: I tracked each feature (like Admin Panel or Home Page) as an issue with its own branch. It gave my work structure and momentum.
 
-**🧠 What I Thought I'd Learn vs What I Actually Learned**
-**1. Concept: Branching**
+---
 
-`Expectation 👀` : I thought branching was just for developers working on big apps—nothing I’d need for a small project.
+**4. Concept: Commit Messages Don’t Matter Much**
+Expectation 👀: I used to think “update” or “fix” was enough for commit messages.
+Reality 😅: Clear commit messages helped me understand what I changed and when, especially after a few days away.
+Impact 💡: Now I write messages like feat: add skills section it makes my Git history easy to follow.
 
-`Reality 😅`: Turns out even solo devs need branches! It helped me avoid breaking my main code while testing new designs.
-
-`Impact 💡`: I created a feature branch for my "About Me" section and merged it smoothly into the main branch after testing. Super useful!
+--- 
 
 ## 4. Screenshots of Key GitHub Features
 
@@ -47,22 +55,35 @@ Include screenshots that demonstrate how you used GitHub to manage your project.
 ![Caption](path/to/your/image.png)
 ```
 
-### A. Milestones and Issues
+
+
+## A. Milestones and Issues
 
 - Screenshot showing your milestone(s) and the issues linked to it.
 
-### B. Project Board
+![Milestones Overview](images/all_milestones.png)
+
+
+## B. Project Board
 
 - Screenshot of your GitHub Project Board with issues organized into columns (e.g., To Do, In Progress, Done).
 
-### C. Branching
+![Project Board Overview](images/projects.png)
+
+---
+
+## C. Branching
 
 - Screenshot showing your branch list with meaningful naming.
 
-### D. Pull Requests
+![Branch List](images/branching.png)
+
+---
+
+## D. Pull Requests
 
 - Screenshot of a pull request that’s either open or merged and linked to a related issue.
 
-### E. Merge Conflict Resolution
+![Pull Request Example](images/pull_request.png)
 
-- Screenshot of a resolved merge conflict (in a pull request, commit history, or your local terminal/GitHub Desktop).
+---
