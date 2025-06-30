@@ -87,11 +87,3 @@ Include screenshots that demonstrate how you used GitHub to manage your project.
 ![Pull Request Example](images/pull_request.png)
 
 ---
-
-## E. Merge Conflict Resolution
-
-- Screenshot of a resolved merge conflict (in a pull request, commit history, or your local terminal/GitHub Desktop).
-
-![Merge Conflict Resolution](images/merge-conflict-resolved.png)
-
-
