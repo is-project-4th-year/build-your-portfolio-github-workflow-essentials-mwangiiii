@@ -84,7 +84,7 @@ Include screenshots that demonstrate how you used GitHub to manage your project.
 
 - Screenshot of a pull request that’s either open or merged and linked to a related issue.
 
-![Pull Request Example](images/pull-request.png)
+![Pull Request Example](images/pull_request.png)
 
 ---
 
