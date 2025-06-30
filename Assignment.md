@@ -2,28 +2,38 @@
 
 ## 1. Student Details
 
-- **Full Name**:
-- **Admission Number**:
-- **GitHub Username**:
-- **Email**:
+- **Full Name**: Wanjiku Dennis Mwangi
+- **Admission Number**: 151354
+- **GitHub Username**: mwangiiii
+- **Email**: dennis.wanjiku@strathmore.edu
 
 ## 2. Deployed Portfolio Link
 
 - **GitHub Pages URL**:  
-  _(Provide the live link to your deployed portfolio website)_
+ [ _(Link to portfolio)_](https://is-project-4th-year.github.io/build-your-portfolio-github-workflow-essentials-mwangiiii/)
 
 ## 3. Learnings from the Git Crash Program
 
-Write about **4 things** you expected to learn during the Git crash course (yes, we all came in with some big hopes 😅).
-For each one, mention:
+1. I honestly thought Git was just like Google Drive but for code just push and pull, and that’s it.
+    -    It’s way more powerful. Git tracks every little change, helps you go back in time, and lets you work on new features without touching the main code.
+    -    This really helped me in my portfolio, I used branches for each feature (like the About section, skills, etc.), and it felt super organized. I could try out things without messing up the main version.
+  
+2. I thought merging branches was just clicking a button and it is done.
+   -    i learned about conflicts. I had merge conflicts and had to figure out which version of the code to keep. It was stressful at first, but I learned how Git thinks.
+   -    Now I’m more careful with changes and I commit often. My portfolio stayed clean and organized even after several updates.
+  
+3. i used to assume the project board tab in github repositories.
+   -    i learned about them this time. Using them helped me stay focused. I broke my portfolio into steps like “Add homepage,” “Style header,” or “Make admin panel.” It made the project feel more doable and less overwhelming.
+   -    This helped as I stayed consistent and always knew what to work on next. It was like having a mini roadmap just for me.
+  
+4. i learnt how to structure a commit message.
+   -    I used to just write “update” or “changes” and move on.
+   -    I learned that good commit messages actually tell a story. They help me understand what I did and why, especially when looking back after a week or more.
+   -    This helped me as i now I write clear messages like feat: add hero section or fix: correct nav link. It makes my project feel more professional and easier to manage.
 
-What you thought it would be like **(Expectation 👀)**
 
-What you actually learned **(Reality 😅)**
 
-And how it helped with your personal portfolio project 💻
 
-make it honest—and if it surprised you, even better!
 
 Example format:
 
