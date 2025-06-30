@@ -54,30 +54,3 @@ Include screenshots that demonstrate how you used GitHub to manage your project.
 ```markdown
 ![Caption](path/to/your/image.png)
 ```
-
-### A. Milestones and Issues
-
-![Milestones Overview](images/all_milestones.png)
-_A screenshot showing all milestones and the number of closed/open issues._
-
-![Adding JavaScript Milestone](images/milestone-adding-javascript.png)
-_Linked issues for JavaScript development._
-
-![Deployment Milestone](images/milestone-deployment.png)
-_Issues and progress for site deployment and branch protection._
-
-![Data Storage Milestone](images/milestone-data-storage.png)
-_Data persistence milestone with linked localStorage issue._
-
-![Admin Panel Milestone](images/milestone-admin-panel.png)
-_Issues showing CRUD setup for managing portfolio data._
-
-![Showcase Projects Milestone](images/milestone-showcase-projects.png)
-_Project section milestone with issues linked to layout and data rendering._
-
-![About and Skills Milestone](images/milestone-about-and-skills.png)
-_About Me and Skills sections milestone with completed issues._
-
-![Footer Milestone](images/milestone-footer.png)
-_Minimal footer milestone and issue closure._
-
