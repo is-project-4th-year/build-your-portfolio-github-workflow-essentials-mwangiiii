@@ -61,16 +61,8 @@ Include screenshots that demonstrate how you used GitHub to manage your project.
 
 - Screenshot showing your milestone(s) and the issues linked to it.
 
-![Milestones Overview](images/milestones-overview.png)
-![Milestone - Adding JavaScript](images/milestone-adding-javascript.png)
-![Milestone - Deployment and Documentation](images/milestone-deployment.png)
-![Milestone - Data Storage and Updates](images/milestone-data-storage.png)
-![Milestone - Admin Panel](images/milestone-admin-panel.png)
-![Milestone - Showcase Projects](images/milestone-showcase-projects.png)
-![Milestone - About and Skills Section](images/milestone-about-and-skills.png)
-![Milestone - Footer](images/milestone-footer.png)
+![Milestones Overview](images/all_milestones-overview.png)
 
----
 
 ## B. Project Board
 
