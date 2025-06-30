@@ -14,37 +14,35 @@
 
 ## 3. Learnings from the Git Crash Program
 
-1. I honestly thought Git was just like Google Drive but for code just push and pull, and that’s it.
-    -    It’s way more powerful. Git tracks every little change, helps you go back in time, and lets you work on new features without touching the main code.
-    -    This really helped me in my portfolio, I used branches for each feature (like the About section, skills, etc.), and it felt super organized. I could try out things without messing up the main version.
-  
-2. I thought merging branches was just clicking a button and it is done.
-   -    i learned about conflicts. I had merge conflicts and had to figure out which version of the code to keep. It was stressful at first, but I learned how Git thinks.
-   -    Now I’m more careful with changes and I commit often. My portfolio stayed clean and organized even after several updates.
-  
-3. i used to assume the project board tab in github repositories.
-   -    i learned about them this time. Using them helped me stay focused. I broke my portfolio into steps like “Add homepage,” “Style header,” or “Make admin panel.” It made the project feel more doable and less overwhelming.
-   -    This helped as I stayed consistent and always knew what to work on next. It was like having a mini roadmap just for me.
-  
-4. i learnt how to structure a commit message.
-   -    I used to just write “update” or “changes” and move on.
-   -    I learned that good commit messages actually tell a story. They help me understand what I did and why, especially when looking back after a week or more.
-   -    This helped me as i now I write clear messages like feat: add hero section or fix: correct nav link. It makes my project feel more professional and easier to manage.
+--- 
 
+**1. Concept: Git Is Just Online Backup**
+-    Expectation 👀: I thought Git was basically a fancier Google Drive for code just push it up and you're done.
+-    Reality 😅: Git actually tracks every version of your code and helps you experiment safely without messing up your main work.
+-    Impact 💡: I used branches for each section of my portfolio (like Projects and Skills) and kept everything clean and organized.
 
+---
 
+**2. Concept: Merging Is Always Smooth**
+-    Expectation 👀: I assumed merging was quick and automatic—no extra work needed.
+-    Reality 😅: I ran into merge conflicts and had to learn how to fix them by choosing what code to keep.
+-    Impact 💡: Now I commit often and review changes before merging. It kept my portfolio stable and bug-free.
 
+---
 
-Example format:
+**3. Concept: GitHub Issues & Boards Are Only for Teams**
+-    Expectation 👀: I figured those tools were for big teams with complex workflows.
+-    Reality 😅: Turns out they’re great for solo projects too! Breaking tasks into issues made the project more manageable.
+-    Impact 💡: I tracked each feature (like Admin Panel or Home Page) as an issue with its own branch. It gave my work structure and momentum.
 
-**🧠 What I Thought I'd Learn vs What I Actually Learned**
-**1. Concept: Branching**
+---
 
-`Expectation 👀` : I thought branching was just for developers working on big apps—nothing I’d need for a small project.
+**4. Concept: Commit Messages Don’t Matter Much**
+Expectation 👀: I used to think “update” or “fix” was enough for commit messages.
+Reality 😅: Clear commit messages helped me understand what I changed and when, especially after a few days away.
+Impact 💡: Now I write messages like feat: add skills section it makes my Git history easy to follow.
 
-`Reality 😅`: Turns out even solo devs need branches! It helped me avoid breaking my main code while testing new designs.
-
-`Impact 💡`: I created a feature branch for my "About Me" section and merged it smoothly into the main branch after testing. Super useful!
+--- 
 
 ## 4. Screenshots of Key GitHub Features
 
