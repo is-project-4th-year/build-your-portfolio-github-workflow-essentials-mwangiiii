@@ -58,10 +58,12 @@ Include screenshots that demonstrate how you used GitHub to manage your project.
 ### A. Milestones and Issues
 
 - Screenshot showing your milestone(s) and the issues linked to it.
+- ![Milestones and Issues](./images/all$milestones.png)
 
 ### B. Project Board
 
 - Screenshot of your GitHub Project Board with issues organized into columns (e.g., To Do, In Progress, Done).
+- 
 
 ### C. Branching
 
