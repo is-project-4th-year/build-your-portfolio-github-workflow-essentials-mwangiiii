@@ -57,7 +57,7 @@ Include screenshots that demonstrate how you used GitHub to manage your project.
 
 ### A. Milestones and Issues
 
-![Milestones Overview](./images/all_milestones.png)
+![Milestones Overview](images/all_milestones.png)
 _A screenshot showing all milestones and the number of closed/open issues._
 
 ![Adding JavaScript Milestone](images/milestone-adding-javascript.png)
