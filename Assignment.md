@@ -54,3 +54,51 @@ Include screenshots that demonstrate how you used GitHub to manage your project.
 ```markdown
 ![Caption](path/to/your/image.png)
 ```
+
+
+
+## A. Milestones and Issues
+
+- Screenshot showing your milestone(s) and the issues linked to it.
+
+![Milestones Overview](images/all_milestones.png)
+![Milestone - Adding JavaScript](images/milestone-adding-javascript.png)
+![Milestone - Deployment and Documentation](images/milestone-deployment.png)
+![Milestone - Data Storage and Updates](images/milestone-data-storage.png)
+![Milestone - Admin Panel](images/milestone-admin-panel.png)
+![Milestone - Showcase Projects](images/milestone-showcase-projects.png)
+![Milestone - About and Skills Section](images/milestone-about-and-skills.png)
+![Milestone - Footer](images/milestone-footer.png)
+
+---
+
+## B. Project Board
+
+- Screenshot of your GitHub Project Board with issues organized into columns (e.g., To Do, In Progress, Done).
+
+![Project Board Overview](images/project-board.png)
+
+---
+
+## C. Branching
+
+- Screenshot showing your branch list with meaningful naming.
+
+![Branch List](images/branch-list.png)
+
+---
+
+## D. Pull Requests
+
+- Screenshot of a pull request that’s either open or merged and linked to a related issue.
+
+![Pull Request Example](images/pull-request-linked.png)
+
+---
+
+## E. Merge Conflict Resolution
+
+- Screenshot of a resolved merge conflict (in a pull request, commit history, or your local terminal/GitHub Desktop).
+
+![Merge Conflict Resolution](images/merge-conflict-resolved.png)
+
