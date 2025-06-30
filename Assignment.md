@@ -57,22 +57,27 @@ Include screenshots that demonstrate how you used GitHub to manage your project.
 
 ### A. Milestones and Issues
 
-- Screenshot showing your milestone(s) and the issues linked to it.
-- ![Milestones and Issues](./images/all$milestones.png)
+![Milestones Overview](images/all_milestones.png)
+_A screenshot showing all milestones and the number of closed/open issues._
 
-### B. Project Board
+![Adding JavaScript Milestone](images/milestone-adding-javascript.png)
+_Linked issues for JavaScript development._
 
-- Screenshot of your GitHub Project Board with issues organized into columns (e.g., To Do, In Progress, Done).
-- 
+![Deployment Milestone](images/milestone-deployment.png)
+_Issues and progress for site deployment and branch protection._
 
-### C. Branching
+![Data Storage Milestone](images/milestone-data-storage.png)
+_Data persistence milestone with linked localStorage issue._
 
-- Screenshot showing your branch list with meaningful naming.
+![Admin Panel Milestone](images/milestone-admin-panel.png)
+_Issues showing CRUD setup for managing portfolio data._
 
-### D. Pull Requests
+![Showcase Projects Milestone](images/milestone-showcase-projects.png)
+_Project section milestone with issues linked to layout and data rendering._
 
-- Screenshot of a pull request that’s either open or merged and linked to a related issue.
+![About and Skills Milestone](images/milestone-about-and-skills.png)
+_About Me and Skills sections milestone with completed issues._
 
-### E. Merge Conflict Resolution
+![Footer Milestone](images/milestone-footer.png)
+_Minimal footer milestone and issue closure._
 
-- Screenshot of a resolved merge conflict (in a pull request, commit history, or your local terminal/GitHub Desktop).
