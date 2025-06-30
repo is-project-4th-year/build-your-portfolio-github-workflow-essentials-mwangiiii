@@ -61,7 +61,7 @@ Include screenshots that demonstrate how you used GitHub to manage your project.
 
 - Screenshot showing your milestone(s) and the issues linked to it.
 
-![Milestones Overview](images/all_milestones-overview.png)
+![Milestones Overview](images/all_milestones.png)
 
 
 ## B. Project Board
