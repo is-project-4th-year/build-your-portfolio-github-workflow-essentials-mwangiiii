@@ -10,7 +10,7 @@
 ## 2. Deployed Portfolio Link
 
 - **GitHub Pages URL**:  
- [ _(Link to portfolio)_](https://is-project-4th-year.github.io/build-your-portfolio-github-workflow-essentials-mwangiiii/)
+ [(Link to portfolio)](https://is-project-4th-year.github.io/build-your-portfolio-github-workflow-essentials-mwangiiii/)
 
 ## 3. Learnings from the Git Crash Program
 
